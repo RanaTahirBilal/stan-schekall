@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+# While on github.io this site stays out of search engines.
+# When it moves to the client domain, change the line above to "Allow: /".
